@@ -1,0 +1,13 @@
+{
+  "name": "bin-route",
+  "version": "0.0.0",
+  "description": "Node Getty Replacement",
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  	"src-sockios": "~0.1.0"
+  },
+  "bin": {
+    "route": "route.js"
+  }
+}
